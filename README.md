@@ -1,6 +1,6 @@
 <h1>Hi there, I am <a href="https://www.instagram.com/akshitsood_978/" target="_blank">Akshit</a> 🙋🏽‍♂️</h1> 
 
-![](https://visitor-badge.glitch.me/badge?page_id=akshit9784) 
+![](https://visitor-badge.glitch.me/badge?page_id=akshit-sood) 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
